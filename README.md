@@ -2,17 +2,7 @@
 :city_sunset: Phoenix, AZ
 
 ## 👀 I’m interested in:
-:computer: Web Development
 
-:chart_with_upwards_trend: Machine Learning & AI
-
-:police_car: CyberSecurity
-
-:robot: Robotics
-
-:factory: 3D Printing technology
-
-:rocket: Space
 
 ## 🌱 I’m currently learning: 
 :snake: Python
