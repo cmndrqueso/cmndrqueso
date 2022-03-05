@@ -1,15 +1,13 @@
 # 👋 Hi, I’m  @cmndrqueso
 :city_sunset: Phoenix, AZ
 
-## 👀 I’m interested in:
+##I’m interested in:
 
 
-## 🌱 I’m currently learning: 
-:snake: Python
-
-:coffee: Java
-
-:page_with_curl: JavaScript
+##I’m currently learning: 
+Java
+Python
+JavaScript
   - React
   - Node.js
 
