@@ -9,7 +9,7 @@ and so began my quest...
 Now, in pursuit of my quest I may have gotten lost along the way 😁. 
 I changed my degree, changed my career and begun learning Java, Python ,
 Javascript in addition to React and Node.js. Welcome to my adventure do 
-be careful, we uhm seem to get lost along the way.
+be careful, I uhm, seem to get lost along the way.
 
 
 <!---
